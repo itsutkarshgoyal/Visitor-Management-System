@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/lib/activation.jar"/>
+	<classpathentry kind="lib" path="dist/lib/DateChooser.jar"/>
+	<classpathentry kind="lib" path="dist/lib/JTattoo-1.6.11.jar"/>
+	<classpathentry kind="lib" path="dist/lib/mail.jar"/>
+	<classpathentry kind="lib" path="dist/lib/opencv-340.jar"/>
+	<classpathentry kind="lib" path="dist/lib/rs2xml.jar"/>
+	<classpathentry kind="lib" path="dist/lib/sqlitejdbc-v056.jar"/>
+	<classpathentry kind="lib" path="dist/Visiting_Management.jar"/>
+	<classpathentry kind="lib" path="jar/activation.jar"/>
+	<classpathentry kind="lib" path="jar/DateChooser.jar"/>
+	<classpathentry kind="lib" path="jar/JTattoo-1.6.11.jar"/>
+	<classpathentry kind="lib" path="jar/mail.jar"/>
+	<classpathentry kind="lib" path="jar/opencv-340.jar"/>
+	<classpathentry kind="lib" path="jar/rs2xml.jar"/>
+	<classpathentry kind="lib" path="jar/sqlitejdbc-v056.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
